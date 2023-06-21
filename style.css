@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(200, 200, 200);
+}
+
+.container{
+    background-color: white;
+    border-radius: 15px;
+    position: absolute;
+    left: calc(50vw - 50%);
+    top: calc(50vh - 50%);
+}
